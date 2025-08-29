@@ -2,6 +2,8 @@ WhatsApp Chat Analyzer 📱
 
 SCREENSHOTS-->>
 <img width="2862" height="1714" alt="Screenshot 2025-08-29 140357" src="https://github.com/user-attachments/assets/9a7fd0d9-f165-4680-8ce8-6c47e7db85d9" />
+![WhatsApp Image 2025-08-29 at 14 10 11_202e03cd](https://github.com/user-attachments/assets/165ae1cd-71ee-4220-8f43-088622c58139)
+![WhatsApp Image 2025-08-29 at 14 10 11_e5d1e9ee](https://github.com/user-attachments/assets/af280ab4-75ef-45eb-989d-ae2a8b7d2249)
 
 
 
