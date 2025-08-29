@@ -32,22 +32,8 @@ matplotlib
 
 nltk
 
-scikit-learn
+MCP
 
-transformers (for the AI agent)
-
-You can install them all using pip:
-
-Bash
-
-pip install pandas seaborn matplotlib nltk scikit-learn transformers
-Installation
-Clone the repository:
-
-Bash
-
-git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
-cd whatsapp-chat-analyzer
 Export your WhatsApp chat:
 
 Open the chat you want to analyze in WhatsApp.
